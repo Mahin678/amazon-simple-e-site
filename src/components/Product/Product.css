@@ -1,0 +1,30 @@
+
+.product-card{
+display: flex;
+border-bottom:2px solid lightgrey;
+padding: 0px 20px;
+}
+.img-container{
+    padding: 20px 0px;
+}
+.img-container img{
+    padding: 20px;
+}
+.details-container {
+    padding: 0px 20px;
+    padding-bottom: 20px;
+}
+.details-container p{
+    font-weight: 500;
+    font-weight: 16px;
+}
+.details-container button{
+    background-color: chocolate;
+    color: white;
+    padding: 5px;
+    width: 200px;
+    border: none;
+    margin: 5px 0px;
+    cursor: pointer;
+    margin-top: 15px;
+}
